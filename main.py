@@ -126,8 +126,8 @@ async def login_for_access_token(request: Request, form_data: OAuth2PasswordRequ
     access_token = create_access_token(
         data={"sub": user.username}, expires_delta=access_token_expires
     )
-    # return {"access_token": access_token, "token_type": "bearer"}
-    return templates.TemplateResponse('home.html', {'request': request})
+    return {"access_token": access_token, "token_type": "bearer"}
+    # return templates.TemplateResponse('home.html', {'request': request})
 
 
 @app.get("/users/me/", response_model=User)
