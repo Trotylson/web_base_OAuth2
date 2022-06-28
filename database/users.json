@@ -1,0 +1,58 @@
+{
+    "johndoe": {
+        "username": "johndoe",
+        "full_name": "John Doe",
+        "email": "johndoe@example.com",
+        "hashed_password": "$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW",
+        "disabled": false
+    },
+    "test": {
+        "username": "test",
+        "full_name": "John Test",
+        "email": "test@example.com",
+        "hashed_password": "$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW",
+        "disabled": true
+    },
+    "new": {
+        "username": "new",
+        "email": "new@example.com",
+        "hashed_password": "$2b$12$63McUE8f.Z21WVwZn0NoE.8xJ9VXEuMNR/jsd4OKTR1abom/oJE9m",
+        "disabled": false
+    },
+    "admin": {
+        "username": "admin",
+        "email": "admin@service.com",
+        "hashed_password": "$2b$12$Vwnur/P32ApfapsXL2hmrupm9zLXWv.q56YyJJNvtDC5gKB0icjta",
+        "disabled": false
+    },
+    "tester": {
+        "username": "tester",
+        "email": "tester@service.com",
+        "hashed_password": "$2b$12$AKj5MncP3exXiB2Y2b.vXOrLbfdztLc371FJkUNpAdS5BEjpeFtJG",
+        "disabled": false
+    },
+    "tester2": {
+        "username": "tester2",
+        "email": "tester2@service.com",
+        "hashed_password": "$2b$12$PM3U/ZDAiRwv5PbDgTvpO.5omKAVz38nWcgCEICH8e4MyPaE6g2Ku",
+        "disabled": false
+    },
+    "tester21": {
+        "username": "tester21",
+        "email": "tester21@service.com",
+        "hashed_password": "$2b$12$BIuMb6fdZILKHovG1dFwuuYG/41alMcGTUezc.FZxoXKAulod7Tve",
+        "disabled": false
+    },
+    "test21": {
+        "username": "test21",
+        "email": "test21@example.br",
+        "hashed_password": "$2b$12$i1QprbVDq/TdpmRhicLlAuCh5DZCq.F1NGTRUOduNW8/zIrLzNe.2",
+        "disabled": false
+    },
+    "john": {
+        "username": "john",
+        "email": "john@example.com",
+        "hashed_password": "$2b$12$aW9pO1PGOYBj2WXiAYV3N.bIejaHTjVkVvYyHrlc2jjFIB.owL14W",
+        "disabled": false
+    }
+}
